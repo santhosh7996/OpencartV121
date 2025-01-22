@@ -1,0 +1,56 @@
+16:43:08.300 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link.. 
+16:43:08.316 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.. 
+16:43:10.041 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message.. 
+16:43:10.085 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****  
+16:43:15.986 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+17:01:44.081 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\Grouping.xml"
+17:01:44.488 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\Grouping.xml
+
+17:01:51.264 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+17:01:51.386 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+17:01:51.945 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link.. 
+17:01:51.957 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.. 
+17:01:53.579 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message.. 
+17:01:53.622 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****  
+17:01:58.493 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+18:05:11.584 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\Grouping.xml"
+18:05:12.025 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\Grouping.xml
+
+18:05:22.359 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:05:22.471 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+18:05:23.084 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link.. 
+18:05:23.102 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.. 
+18:05:24.856 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message.. 
+18:05:24.997 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****  
+18:05:30.414 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+18:06:26.252 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\test-output\testng-failed.xml"
+18:06:26.589 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\test-output\testng-failed.xml
+
+18:06:31.865 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:06:31.988 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+18:06:32.653 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link.. 
+18:06:32.660 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.. 
+18:06:34.912 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message.. 
+18:06:34.963 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****  
+18:09:42.250 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\Grouping.xml"
+18:09:42.622 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\Grouping.xml
+
+18:09:50.916 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:09:51.102 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+18:09:51.638 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link.. 
+18:09:51.643 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.. 
+18:09:53.352 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message.. 
+18:09:53.412 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****  
+18:09:57.027 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+18:35:43.572 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\Grouping.xml"
+18:35:44.155 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\Grouping.xml
+
+18:35:58.772 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:35:58.901 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+18:35:59.487 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link.. 
+18:35:59.492 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.. 
