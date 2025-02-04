@@ -1,0 +1,67 @@
+16:16:46.087 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message.. 
+16:16:46.142 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****  
+16:16:49.945 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+10:29:46.136 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml"
+10:29:46.606 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml
+
+10:31:56.386 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml"
+10:31:56.961 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml
+
+10:38:38.689 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml"
+10:38:38.947 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml
+
+10:39:19.256 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml"
+10:39:19.539 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml
+
+10:39:52.246 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml"
+10:39:52.503 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml
+
+10:49:18.477 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml"
+10:49:18.853 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml
+
+11:04:08.757 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml"
+11:04:09.070 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml
+
+11:04:15.869 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:04:16.059 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+11:04:16.693 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link.. 
+11:04:16.710 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.. 
+11:04:19.205 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message.. 
+11:04:19.252 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****  
+11:04:23.027 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+11:04:24.930 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+11:04:59.720 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml"
+11:05:00.004 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml
+
+11:12:33.666 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml"
+11:12:34.033 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml
+
+11:19:19.463 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml"
+11:19:19.799 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml
+
+11:19:27.801 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:19:28.041 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+11:19:28.838 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link.. 
+11:19:28.876 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.. 
+11:19:31.653 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message.. 
+11:19:31.704 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****  
+11:19:36.024 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+11:19:37.839 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+11:20:51.749 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml"
+11:20:52.128 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml
+
+11:20:55.817 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:20:55.968 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+11:20:56.583 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link.. 
+11:20:56.584 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.. 

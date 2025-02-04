@@ -47,13 +47,13 @@ public class BaseClass
 		logger=LogManager.getLogger(this.getClass());
 		
 		if(p.getProperty("execution_env").equalsIgnoreCase("remote"))
-		{
-			DesiredCapabilities capabilities = new DesiredCapabilities();
+		{ 
+			DesiredCapabilities capabilities = new DesiredCapabilities();//we use capabilities class to set the platform & browser.
 			
 			//os
 			if(os.equalsIgnoreCase("windows"))
 			{
-				capabilities.setPlatform(Platform.WIN11);
+				capabilities.setPlatform(Platform.WIN10);
 			}
 			else if(os.equalsIgnoreCase("mac"))
 			{
@@ -64,7 +64,7 @@ public class BaseClass
 				capabilities.setPlatform(Platform.LINUX);
 			}
 			else
-			{
+			{   
 				System.out.println("No matching os");
 				return;
 				
@@ -93,7 +93,7 @@ public class BaseClass
 		
 		
 		
-		
+		  
 		
 		
 		driver.manage().deleteAllCookies();

@@ -1,4 +1,4 @@
-package utilities;
+  package utilities;
 
 import org.testng.annotations.DataProvider;
 
@@ -17,6 +17,7 @@ public class DataProviders {
 		ExcelUtility xlutil= new ExcelUtility(path); //created an object for XLutility
 		int totalrows= xlutil.getRowCount("Sheet1");
 		int totalcols= xlutil.getCellCount("Sheet1", 1);
+		
 		
 		String logindata[][]=new String[totalrows][totalcols];
 		

@@ -1,0 +1,44 @@
+20:52:42.857 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:52:42.863 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:52:42.864 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:52:42.889 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:52:42.890 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:52:42.891 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:52:42.911 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:52:42.911 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:52:42.912 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:52:42.933 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:52:42.934 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:52:42.935 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:52:42.960 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:52:42.960 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:52:42.961 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:52:42.984 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:52:42.984 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:52:42.985 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:52:43.004 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:52:43.005 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:52:43.006 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:52:43.028 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:52:43.029 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:52:43.030 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:10:21.792 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\Grouping.xml"
+16:10:22.300 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\Grouping.xml
+
+16:10:39.461 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+16:10:39.959 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+16:10:40.587 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link.. 
+16:10:40.603 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.. 
+16:10:42.441 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message.. 
+16:10:42.487 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****  
+16:10:46.629 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+16:10:48.396 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+16:16:35.212 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\Grouping.xml"
+16:16:35.591 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\Grouping.xml
+
+16:16:43.334 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+16:16:43.548 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+16:16:44.250 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link.. 
+16:16:44.274 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.. 

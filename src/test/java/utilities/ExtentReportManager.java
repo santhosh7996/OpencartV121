@@ -39,8 +39,8 @@ public class ExtentReportManager implements ITestListener {
 		repName= "Test-Report-" +timeStamp+ ".html";
 		sparkReporter = new ExtentSparkReporter(".\\reports\\"+ repName);
 		
-		sparkReporter.config().setDocumentTitle("opencart Automation Report");
-		sparkReporter.config().setReportName("opencart Functional Testing");
+		sparkReporter.config().setDocumentTitle("opencart Automation Report"); //Title of the report
+		sparkReporter.config().setReportName("opencart Functional Testing"); //Name of the report
 		sparkReporter.config().setTheme(Theme.DARK);
 		
 		extent= new ExtentReports();
@@ -67,8 +67,8 @@ public class ExtentReportManager implements ITestListener {
 	}	
 		public void  onTestSuccess(ITestResult result)
 		{
-			test=extent.createTest(result.getTestClass().getName());
-			test.assignCategory(result.getMethod().getGroups());
+			test=extent.createTest(result.getTestClass().getName());     
+			test.assignCategory(result.getMethod().getGroups());//to display groups in report
 			test.log(Status.PASS,result.getName()+"got successfully executed ");
 			
 		}

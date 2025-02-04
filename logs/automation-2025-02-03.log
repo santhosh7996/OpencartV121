@@ -1,0 +1,49 @@
+11:20:58.795 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message.. 
+11:20:58.894 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****  
+11:21:03.383 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+11:21:05.489 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+11:30:01.238 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\crossbrowsertesting.xml"
+11:30:01.726 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\crossbrowsertesting.xml
+
+11:30:16.323 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:30:16.323 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:30:16.323 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:30:16.582 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+11:30:16.649 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+11:30:16.735 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+11:30:17.758 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link.. 
+11:30:18.088 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.. 
+11:32:36.945 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\crossbrowsertesting.xml"
+11:32:37.256 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\crossbrowsertesting.xml
+
+11:32:47.246 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:32:47.246 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:32:47.398 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+11:32:47.445 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+11:32:55.848 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:32:57.260 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+11:32:59.359 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link.. 
+11:32:59.386 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.. 
+11:38:12.480 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\crossbrowsertesting.xml"
+11:38:12.819 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\crossbrowsertesting.xml
+
+11:38:19.434 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:38:19.552 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:38:20.184 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+11:38:20.439 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+11:38:24.321 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:38:24.733 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+11:38:25.437 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link.. 
+11:38:25.613 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.. 
+11:38:27.414 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - validating expected message.. 
+11:38:27.490 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****  
+13:27:39.468 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml"
+13:31:12.211 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml"
+13:41:14.145 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml"
+13:43:11.959 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml"
+13:44:54.379 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Test\Ecp_WrkSpc for Hybridfrmwrk\Hybrid\master.xml"
+13:45:16.145 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+13:45:16.485 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
